@@ -4,7 +4,7 @@ title: failed to push some refs to
 date: 2017-07-27
 categories: blog
 tags: [git]
-description: git push失败
+description: git push failed
 ---
 
 遇到问题如下：
@@ -17,7 +17,7 @@ description: git push失败
 
 >--Compressing objects: 100% (4/4), done.
 
->--Writing objects: 100% (4/4), 427 bytes | 0 bytes/s, done.
+>--Writing objects: 100% (4/4), 427 bytes|0 bytes/s, done.
 
 >--Total 4 (delta 2), reused 0 (delta 0)
 
@@ -53,4 +53,4 @@ description: git push失败
 
  --git push
 
- 参考方案:https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions
+ [参考方案](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
