@@ -1,14 +1,14 @@
 # Site settings
-title: blog
+title: 个人微博
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "moon|blog"  
+description: "Cuadministrator|blog"  
 baseurl: ""
 url: "http://cuadministrator"  
 
 # About/contact
 owner: 
-  name: " cuadministrator"
+  name: " Cuadministrator"
   email: 2469084112@qq.com
   bio: "个人博客"
 
@@ -43,11 +43,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Cuadministrator"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
-comments :
+# Commentcommentss 
+ :
   provider : duoshuo
   duoshuo :
     short_name : 
