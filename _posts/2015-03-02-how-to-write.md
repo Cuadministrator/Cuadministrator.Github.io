@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 测试1
-date: 2025-3-02
+title: git push失败解决方法
+date: 2017-07-27
 categories: blog
-tags: [测试]
-description: 1232123
+tags: [git]
+description: git push上传远程库失败
 ---
 
 测试样例

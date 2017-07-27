@@ -2,7 +2,7 @@
 layout: post
 title: 问题: failed to push some refs to
 date: 2017-07-27
-categories: Question
+categories: blog
 tags: [git]
 description: git push失败
 ---
