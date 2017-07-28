@@ -1,9 +1,9 @@
 ---
 layout: post
-title: failed to push some refs to
+title: error: failed to push some refs to
 date: 2017-07-27
 categories: blog
-tags: [git]
+tags: [git,error]
 description: git push failed
 ---
 
