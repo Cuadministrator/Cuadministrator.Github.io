@@ -1,5 +1,5 @@
 # Site settings
-title: blog
+title: 个人博客
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Cuadministrator|blog"  
@@ -46,8 +46,8 @@ defaults:
       author: "Cuadministrator"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Commentcommentss 
- :
+# Comments 
+comments :
   provider : duoshuo
   duoshuo :
     short_name : 
