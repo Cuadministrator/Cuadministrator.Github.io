@@ -29,3 +29,17 @@ description: 引用类型,Function
 函数属性和方法:
 >length传入参数个数
 >prototype保存实例，不可枚举
+
+Math:
+random():
+>var 值 = Math.floor(Math.random() * 可能的占总数 + 第一个可能的值);
+>var num = Math.floor(Math.random() * 10 + 1);// 1-10的数
+
+随机取2-10之间的一个数:
+
+    function selectFrom(lowerValue, upperValue){
+        var choices = upperValue - lowerValue + 1;
+        return Math.floor(Math.random() * choices + lowerValue);
+    }
+    var num = selectFrom(2,10);
+    alert(num);

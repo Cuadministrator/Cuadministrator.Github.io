@@ -23,7 +23,6 @@ description: 引用类型,Array,Date,RegExp,Function
 >reduceRight(prev, cur, index, array)
 
 Date类型:
-
 >var dateNow = Date.now();
 >var date = new Date();
 
