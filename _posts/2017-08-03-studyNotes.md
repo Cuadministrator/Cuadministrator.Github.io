@@ -95,7 +95,7 @@ description: 属性类型
             this.typeTem = typeTem;
         }
         function inheritPrototype(SubType,SuperType){
-            var prototype = object(superType.prototype);
+            var prototype = object(SuperType.prototype);
             prototype.constructor = SubType;
             SubType.prototype = prototype;
         }
