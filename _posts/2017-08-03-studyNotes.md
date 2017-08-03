@@ -100,7 +100,7 @@ description: 属性类型
             SubType.prototype = prototype;
         }
         //继承 
-        inheritPrototype(SubType,SuperType);
+        **inheritPrototype(SubType,SuperType);**
         SubType.prototype.saytypeTem = function(){
             alert("typeTem is " + this.typeTem);
         };
