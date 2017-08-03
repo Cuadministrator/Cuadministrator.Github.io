@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 面向对象的程序设计 学习笔记
-date: 2017-08-01
+title: 面向对象的程序设计(一) 学习笔记
+date: 2017-08-02
 categories: blog
 tags: [study,note,属性类型,原型模式(prototype)]
 description: 属性类型

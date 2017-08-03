@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 面向对象的程序设计 学习笔记
+title: 面向对象的程序设计(二) 学习笔记
 date: 2017-08-03
 categories: blog
 tags: [study,note,属性类型]
