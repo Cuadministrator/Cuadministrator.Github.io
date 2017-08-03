@@ -3,7 +3,7 @@ layout: post
 title: 面向对象的程序设计 学习笔记
 date: 2017-08-01
 categories: blog
-tags: [study,note,属性类型]
+tags: [study,note,属性类型,原型模式(prototype)]
 description: 属性类型
 ---
 
@@ -29,6 +29,6 @@ Example:
         person.name = "tom";
         alert(person.name);//susan
 
-访问器属性:
->
+原型模式:
+>prototype 该属性是一个指针，指向一个对象，这个对象是包含可以有特定类型的所有实例共享的属性和方法，作用是可以让所有实例共享它所包含的属性和方法。
 
