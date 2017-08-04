@@ -12,6 +12,7 @@ description: 引用类型,Function
 函数内部属性:arguments和this
 > arugements 对象是类数组对象 其中包含了传入函数的所有参数
 > 对于求一个数的阶乘，会用到递归调用 需要消除紧密耦合 在修改函数名后依然能够运行
+  
         function factorial(num){
             if(num <= 1){
                 return 1;
@@ -33,6 +34,7 @@ description: 引用类型,Function
 Math:
 random():
 >var 值 = Math.floor(Math.random() * 可能的占总数 + 第一个可能的值);
+
 >var num = Math.floor(Math.random() * 10 + 1);// 1-10的数
 
 随机取2-10之间的一个数:
