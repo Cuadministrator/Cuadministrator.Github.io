@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 面向对象的程序设计(三) 学习笔记
+title: BOM<浏览器对象模型>(一) 学习笔记
 date: 2017-08-06
 categories: blog
 tags: [study,note,BOM,窗口,对话框]

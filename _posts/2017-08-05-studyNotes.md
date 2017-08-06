@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 面向对象的程序设计(三) 学习笔记
+title: 面向对象的程序设计(四) 学习笔记
 date: 2017-08-05
 categories: blog
 tags: [study,note,递归,闭包,私有作用域]
