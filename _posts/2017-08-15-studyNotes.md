@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DOM<文档对象模型>(三) 学习笔记
+title: DOM<文档对象模型>(四) 学习笔记
 date: 2017-08-15
 categories: blog
 tags: [study,note,DOM,分割文本节点,Comment类型,cdataSection,DocumentType,动态脚本]

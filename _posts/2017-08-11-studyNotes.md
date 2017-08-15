@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DOM<文档对象模型>(一) 学习笔记
+title: DOM<文档对象模型>(二) 学习笔记
 date: 2017-08-11
 categories: blog
 tags: [study,note,DOM,文档写入,文档信息,查找元素]
