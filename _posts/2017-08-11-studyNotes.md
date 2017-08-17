@@ -31,3 +31,5 @@ DOM一致性检测：
 
 文档写入:
 >document.write();
+
+
