@@ -1,3 +1,3 @@
 function btnclick (){
-    wx.miniProgram.navigateTo({ur: '../index/index'})
+    wx.miniProgram.navigateTo({ur: 'pages/index/index'})
 }
