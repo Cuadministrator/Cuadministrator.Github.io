@@ -25,8 +25,9 @@ description: mini_weixin
 <script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.3.0.js"></script>
 <button onclick='btnclick'>我是测试按钮</button>
 <script type="text/javascript">
-console.log(window.__wxjs_environment === 'miniprogram')
+
 function btnclick (){
+    console.log(window.__wxjs_environment === 'miniprogram')
     wx.miniProgram.navigateBack({delta:1})
 }
 </script>
