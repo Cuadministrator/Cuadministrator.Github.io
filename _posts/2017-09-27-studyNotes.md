@@ -37,7 +37,7 @@ description: es6
         ps: const 主要的作用是变量指向的内存地址不能变，但是对于数组和对象 实际是保存只想这个内存地址的指针 const只能保证指针固定，指向的数据结构可以改变，对象可以添加属性。
 
         冻结对象: const foo =  Object.freeze({});
-        
+
         完全冻结(冻结对象 冻结属性): 
         var constantize = (obj) =>{
                 Object.freeze(obj);
@@ -47,6 +47,19 @@ description: es6
                         }
                 });
         }
+
+>global 对象
+
+        CommonJs :  
+                require('system.global/shim')();
+        es6: 
+                import getGlobal from 'system.global';
+                const global = getGlobal();
+        
+>模式匹配
+
+        
+
 
 
 
