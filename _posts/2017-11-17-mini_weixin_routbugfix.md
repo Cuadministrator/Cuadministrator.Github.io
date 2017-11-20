@@ -7,7 +7,6 @@ tags: [bugfix]
 description: mini_weixin
 ---
 <script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.3.0.js"></script>
-<script type="text/javascript" src="https://cuadministrator/js/test.js"></script>
 >error:
 
         WAService.js:12 Uncaught (in promise) TypeError: Cannot read property '__route__' of undefined
