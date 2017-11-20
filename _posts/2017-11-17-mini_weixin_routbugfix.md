@@ -26,6 +26,7 @@ description: mini_weixin
 <button onclick='btnclick'>我是测试按钮</button>
 
 <script type="text/javascript">
+console.log(window.__wxjs_environment === 'miniprogram');
 function btnclick (){
 console.log(window.__wxjs_environment === 'miniprogram');
 wx.miniProgram.navigateTo({url:'pages/index/index'});}
