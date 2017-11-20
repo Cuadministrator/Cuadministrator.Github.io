@@ -18,4 +18,4 @@ description: mini_weixin
 
         getPhoneNumber 用户点击确定或者取消后回调函数使用
 
-解决方法来自：<a>https://developers.weixin.qq.com/blogdetail?action=get_post_info&docid=5b821348ef82478527d8fdcf3af5f207&highline=__route__&token=226821302&lang=zh_CN</a>
+解决方法来自：<a src="https://developers.weixin.qq.com/blogdetail?action=get_post_info&docid=5b821348ef82478527d8fdcf3af5f207&highline=__route__&token=226821302&lang=zh_CN">微信小程序论坛</a>
