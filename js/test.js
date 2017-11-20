@@ -1,3 +1,5 @@
+console.log(window.__wxjs_environment === 'miniprogram');
 function btnclick (){
-    wx.miniProgram.navigateTo({ur: 'pages/index/index'})
+console.log(window.__wxjs_environment === 'miniprogram')
+wx.miniProgram.navigateTo({url:'pages/index/index'})
 }
