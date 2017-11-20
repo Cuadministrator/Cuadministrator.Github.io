@@ -23,3 +23,6 @@ description: mini_weixin
 解决方法来自：<a href="https://developers.weixin.qq.com/blogdetail?action=get_post_info&docid=5b821348ef82478527d8fdcf3af5f207&highline=__route__&token=226821302&lang=zh_CN">微信小程序论坛</a>
 
 <button onclick='btnclick'>我是测试按钮</button>
+<script type="text/javascript">
+console.log(window.__wxjs_environment === 'miniprogram')
+</script>
