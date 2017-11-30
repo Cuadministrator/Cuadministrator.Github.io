@@ -34,14 +34,14 @@ description: 总结
 - 在不重新加载整个页面的情况下与服务器交换数据并更新部分网页。(异步 JavaScript 和 XML)
 
 6. vue.js react.js： 
-- 简称：vue react
+- 简称：vue/react
 - 类型：框架
 - 当前热门框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
 
 7. webpack：
 - 简称： webpack
 - 类型：javascript应用程序的模块打包器
-- webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)。当 webpack 处理应用程序时，它会递归地构建一个依赖关系图(dependency graph)，其中包含应用程序需要的每个模块，然后将所有这些模块打包成一个或多个 bundle。
+- webpack 是一个JavaScript 应用程序的模块打包器。处理应用程序时，它会递归地构建一个依赖关系图，其中包含应用程序需要的每个模块，然后将所有这些模块打包成一个或多个 bundle。
 
 **简单来说，目前需要学习： 原生js(推荐原生js)/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架 + webpack 打包工具**
 
@@ -49,7 +49,9 @@ description: 总结
 
 #### 一、javascript高级编程 
 
-1.前端最重要的东西 多读几遍都行，工作后jquery都可以不用会，原生js必须很熟悉。
+1. 前端最重要的东西 多读几遍都行，工作后jquery都可以不用会，原生js必须很熟悉。
+
+2. Ajax 相关知识可以粗略的过一遍后，在es6的promise和async看完后再来细看。
 
 (ps:意思就是，里面的东西即使..有些看起来不重要，也很重要，不需要划重点，都很重要，包括什么标记回收机制这种东西都是很重要的请认真的对待。)
 
@@ -107,7 +109,7 @@ description: 总结
 
 #### 四、Ajax
 
-1. 提交form表单，请求接口，获取数据 需要学习
+1. 提交form表单，请求接口，获取数据 需要学习 (在JavaScript高级编程中有相关章节，涉及异步请求等知识，所以放在了最后，请提前把 es6 中 promise以及async结合起来看。)
 
 #### 五、框架
 
