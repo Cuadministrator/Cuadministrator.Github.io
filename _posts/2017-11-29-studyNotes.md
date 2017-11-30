@@ -8,6 +8,7 @@ description: 总结
 ---
 # 介绍
 
+
 1. javascript: 简称：js 前端'编程语言' 原生js，前端世界的一切源头。
 
 2. jquery： 简称：jq 类库，对js进行封装后简化版js 应用很方便 可以学习也可以不学习，简单了解一下也可以。
@@ -20,12 +21,12 @@ description: 总结
 
 6. vue.js react.js： 框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
 
+7. webpack：javascript应用程序的模块打包器
 
 - 简单来说，需要学习的东西 原生js/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架
 
-7. webpack：javascript应用程序的模块打包器
-
 # 内容
+
 
 #### 一、javascript高级编程 
 
@@ -43,7 +44,9 @@ description: 总结
 
 4. 尝试 贪吃蛇(因为进度问题 我没有做过关于js写的贪吃蛇)
 
-    ps：需求对所有实现的功能进行 ie chrome Firefox 兼容处理
+5. 静态新浪首页
+
+- ps：需求对所有实现的功能进行 ie chrome Firefox 兼容处理
 
 #### 二、css
 
@@ -89,25 +92,28 @@ description: 总结
 
 #### 五、框架
 
-<a href="https://cn.vuejs.org/v2/guide/installation.html">vue.js中文文档</a>
-<a href="https://doc.react-china.org/docs/installation.html">react.js中文文档</a>
-<a href="http://www.ruanyifeng.com/blog/2015/03/react.html">react.js阮一峰教程</a> 
+- <a href="https://cn.vuejs.org/v2/guide/installation.html">vue.js中文文档</a>
 
-1. vue.js react.js 选择一个框架进行学习，框架的内容我会在后期学习后进行补充。
+- <a href="https://doc.react-china.org/docs/installation.html">react.js中文文档</a>
+
+- <a href="http://www.ruanyifeng.com/blog/2015/03/react.html">react.js阮一峰教程</a> 
+
+- vue.js react.js 选择一个框架进行学习，框架的内容我会在后期学习后进行补充。
 
 #### 六、webpack
 
-<a href="https://doc.webpack-china.org/concepts/">webpack中文文档</a>
+- <a href="https://doc.webpack-china.org/concepts/">webpack中文文档</a>
 
-1. 还没有学习完...这个真的没法写，webpack内容同样在后期学习后进行补充。
+- 还没有学习完...这个真的没法写，webpack内容同样在后期学习后进行补充。
 
 # 总结
 
-  目前 我勉强吧js基础学习了一遍，css方面在工作学习中应用比较多也熟悉了一些，es6的学习因为工作有些拖延，原生ajax数据请求学习完不是很熟悉，vue.js 和 react.js 最后应该会选择vue，不过还会对react进行学习，后续会补充关于框架学习中的一些我认为比较重要的东西。
 
-  微信小程序相关：
+  - 目前 我勉强吧js基础学习了一遍，css方面在工作学习中应用比较多也熟悉了一些，es6的学习因为工作有些拖延，原生ajax数据请求学习完不是很熟悉，vue.js 和 react.js 最后应该会选择vue，不过还会对react进行学习，后续会补充关于框架学习中的一些我认为比较重要的东西。
 
-  在学习过程中觉得小程序可以作为前端入门，虽然坑很多，不过对于api的查询，css js es6的锻炼比较好，入门比较轻松，理解起来也比较容易，而且属于目前开发需求的东西，可以作为自己简历的竞争优势。
-坑和一些遇到的问题会在写一篇文章来简述，希望对自己有点帮助。
+  #####微信小程序相关：
 
-  暂时目标和学习记录如上，很多东西需要在实际应用中才能更进一步，希望自己继续努力下去。
+  - 在学习过程中觉得小程序可以作为前端入门，虽然坑很多，不过对于api的查询，css js es6的锻炼比较好，入门比较轻松，理解起来也比较容易，而且属于目前开发需求的东西，可以作为自己简历的竞争优势。
+  - 坑和一些遇到的问题会在写一篇文章来简述，希望对自己有点帮助。
+
+  - 暂时目标和学习记录如上，很多东西需要在实际应用中才能更进一步，希望自己继续努力下去。
