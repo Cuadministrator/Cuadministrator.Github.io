@@ -9,21 +9,60 @@ description: 总结
 # 介绍
 
 
-1. javascript: 简称：js 前端'编程语言' 原生js，前端世界的一切源头。
+1. JavaScript: 
 
-2. jquery： 简称：jq 类库，对js进行封装后简化版js 应用很方便 可以学习也可以不学习，简单了解一下也可以。
+- 简称：js 
 
-3. ECMAScript 6： 简称：es6 对于js进行标准化规定。
+- 类型：编程语言
 
-4. Cascading Style Sheets：简称：css 样式表 如何显示html
+- 原生js，前端世界的 hello world。
 
-5. Asynchronous JavaScript and XML： 简称：ajax 在不重新加载整个页面的情况下与服务器交换数据并更新部分网页。(异步加载的重点)
+2. jquery：
 
-6. vue.js react.js： 框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
+- 简称：jq 
 
-7. webpack：javascript应用程序的模块打包器
+- 类型：类库
 
-- 简单来说，需要学习的东西 原生js/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架
+- 对js进行封装后简化版js 应用很方便 可以学习也可以不学习，简单了解一下也可以。
+
+3. ECMAScript 6： 
+
+- 简称：es6
+
+- 类型：标准化
+
+- 对于js进行标准化规定。
+
+4. Cascading Style Sheets：
+
+- 简称：css 
+
+- 类型：样式表
+
+- 如何显示html
+
+5. Asynchronous JavaScript and XML：
+- 简称：ajax 
+- 类型：创建交互式网页应用的网页开发技术
+- 在不重新加载整个页面的情况下与服务器交换数据并更新部分网页。(异步 JavaScript 和 XML)
+
+6. vue.js react.js： 
+
+- 简称：vue react
+
+- 类型：框架
+
+- 当前热门框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
+
+7. webpack：
+
+- 简称： webpack
+
+- 类型：javascript应用程序的模块打包器
+
+- webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)。当 webpack 处理应用程序时，它会递归地构建一个依赖关系图(dependency graph)，其中包含应用程序需要的每个模块，然后将所有这些模块打包成一个或多个 bundle。
+
+##### 简单来说，需要学习的东西 原生js/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架
 
 # 内容
 
