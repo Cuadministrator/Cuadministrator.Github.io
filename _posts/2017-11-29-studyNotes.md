@@ -43,7 +43,7 @@ description: 总结
 - 类型：javascript应用程序的模块打包器
 - webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)。当 webpack 处理应用程序时，它会递归地构建一个依赖关系图(dependency graph)，其中包含应用程序需要的每个模块，然后将所有这些模块打包成一个或多个 bundle。
 
-### 简单来说，目前需要学习： 原生js(推荐原生js)/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架 + webpack 打包工具
+* 简单来说，目前需要学习： 原生js(推荐原生js)/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架 + webpack 打包工具
 
 # 内容
 
