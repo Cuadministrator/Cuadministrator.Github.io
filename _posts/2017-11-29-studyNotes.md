@@ -10,30 +10,22 @@ description: 总结
 
 1. JavaScript: 
 - 简称：js 
-
 - 类型：编程语言
-
 - 原生js，前端世界的 hello world。
 
 2. jquery：
 - 简称：jq 
-
 - 类型：类库
-
 - 对js进行封装后简化版js 应用很方便 可以学习也可以不学习，简单了解一下也可以。
 
 3. ECMAScript 6： 
 - 简称：es6
-
 - 类型：标准化
-
 - 对于js进行标准化规定。
 
 4. Cascading Style Sheets：
 - 简称：css 
-
 - 类型：样式表
-
 - 如何显示html
 
 5. Asynchronous JavaScript and XML：
@@ -43,16 +35,12 @@ description: 总结
 
 6. vue.js react.js： 
 - 简称：vue react
-
 - 类型：框架
-
 - 当前热门框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
 
 7. webpack：
 - 简称： webpack
-
 - 类型：javascript应用程序的模块打包器
-
 - webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)。当 webpack 处理应用程序时，它会递归地构建一个依赖关系图(dependency graph)，其中包含应用程序需要的每个模块，然后将所有这些模块打包成一个或多个 bundle。
 
 ##### 简单来说，需要学习的东西 原生js/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架
