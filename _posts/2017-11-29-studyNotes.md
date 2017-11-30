@@ -20,14 +20,14 @@ description: 总结
 
 6. vue.js react.js： 框架，核心库是为了对视图层渲染，为复杂单页应用提供驱动。
 
-    vue.js (https://cn.vuejs.org/v2/guide/installation.html) 
-    react.js 中文文档 (https://doc.react-china.org/docs/installation.html) 阮一峰教程 (http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 - 简单来说，需要学习的东西 原生js/类库jq + es6标准化 + css样式表 + ajax数据交互 + vue/react 框架
 
+7. webpack：javascript应用程序的模块打包器
+
 # 内容
 
-#### 一、javascript 高级编程 
+#### 一、javascript高级编程 
 
 1.前端最重要的东西 多读几遍都行，工作后jquery都可以不用会，原生js必须很熟悉。
 
@@ -45,15 +45,16 @@ description: 总结
 
     ps：需求对所有实现的功能进行 ie chrome Firefox 兼容处理
 
-#### 二、css方面 
+#### 二、css
 
 1. css3在动画方面的支持不错可以去看看(实现伪弹幕) css的学习方法是多写，没有其他很好的学习途径。
 
-#### 三、es6学习(*)
+#### 三、es6(*)
 
 <a href="http://es6.ruanyifeng.com/#README">es6中文文档</a> 
 
-##### 重点： 
+##### 重点：
+
 1. let和const命令。
 
 2. 字符串、正则、数值、函数、数组、对象的扩展，不懂的可以放放，后面有解释，再不懂得就去百度。
@@ -86,9 +87,19 @@ description: 总结
 
 1. 提交form表单，请求接口，获取数据 需要学习
 
-#### 五、熟悉框架
+#### 五、框架
 
-1. vue.js react.js 选择一个框架进行学习
+<a href="https://cn.vuejs.org/v2/guide/installation.html">vue.js中文文档</a>
+<a href="https://doc.react-china.org/docs/installation.html">react.js中文文档</a>
+<a href="http://www.ruanyifeng.com/blog/2015/03/react.html">react.js阮一峰教程</a> 
+
+1. vue.js react.js 选择一个框架进行学习，框架的内容我会在后期学习后进行补充。
+
+#### 六、webpack
+
+<a href="https://doc.webpack-china.org/concepts/">webpack中文文档</a>
+
+1. 还没有学习完...这个真的没法写，webpack内容同样在后期学习后进行补充。
 
 # 总结
 
