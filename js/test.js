@@ -7,5 +7,4 @@ function btnclick (){
             fail: ()=>{console.log("navigateTo Fail")},
             complete: ()=>{console.log("navigateTo Final")},
         })
-    }
 }
